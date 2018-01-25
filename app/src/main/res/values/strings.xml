@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">滑动卡片</string>
+    <string name="version">滑动卡片v%1$s</string>
+    <string name="slogan">准时叫醒你的梦想</string>
+    <string name="copyright">© 2018 智慧科技. 版权所有.</string>
+    <string name="text1">该博物馆坐落于卢浮宫，原为12世纪后期的堡垒...</string>
+    <string name="text2">光化门是韩国首尔钟路区景福宫的主要大门。</string>
+    <string name="text3">伦敦塔桥是一座1886年建成的伦敦联合吊桥和悬索桥</string>
+    <string name="text4">天坛是位于东南部的宗教建筑的帝国复合体...</string>
+    <string name="text5">爱琴海岛屿位于海域，有些岛屿则位于其南部边缘。</string>
+</resources>

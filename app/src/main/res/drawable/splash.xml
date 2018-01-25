@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 背景颜色 -->
+    <item android:drawable="@android:color/white" />
+
+    <item>
+      <!-- 图片  可以是全屏的图，可以是一张小图，如果是全屏的图，那上面的颜色也可以不用设置，如果是小图，就要指定下颜色了，并且可以指定图片在位置-->
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/ic_welcome" />
+    </item>
+</layer-list>
